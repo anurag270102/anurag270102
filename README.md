@@ -41,7 +41,7 @@ Here are some of the skills and technologies I work with:
 
 ### 🤝 Let's Connect!
 
-- [LinkedIn][(https://www.linkedin.com/in/anurag-dalsaniya-48a48b254/)]
+- [LinkedIn](https://www.linkedin.com/in/anurag-dalsaniya-48a48b254/)
 
 Feel free to explore my repositories and don't hesitate to reach out. I'm always open to interesting collaborations and conversations!
 
