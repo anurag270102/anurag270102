@@ -1,6 +1,6 @@
 # Anurag Dalsaiya
 
-## 👋 Hello World!
+## 👋 Hello
 
 I'm Anurag Dalsaiya, a passionate full stack web devlopment. Welcome to my GitHub profile!
 
