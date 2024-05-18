@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anurag270102&theme=" alt="anurag270102" /></a> </p>
 
-- 🔭 I’m currently working on [Code editor](https://github.com/anurag270102/Code-Editor)
+- 🔭 I’m currently working on [Blogging Website](https://github.com/anurag270102/blogbalze)
 - 👯 I’m looking to collaborate on [fiverr clone](https://github.com/anurag270102/fiverr-clone)
 - 🌱 I’m currently learning **Redux**
 - 💬 Ask me about **JS, ReactJS**
