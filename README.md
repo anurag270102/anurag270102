@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on [fiverr clone](https://github.com/anurag270102/fiverr-clone)
 - 🌱 I’m currently learning **Redux**
 - 💬 Ask me about **JS, ReactJS**
-- 📫 How to reach me **anurag2702@gmail.com**
+- 📫 How to reach me **anuragdalsaniya2702@gmail.com**
 - 👨‍💻 All of my projects are available at **https://anuragdalsaniya.vercel.app/**
 - ⚡ Fun fact **I think i am slient**
 
